@@ -53,4 +53,4 @@ habilidades en programación.
 
 ## 📫 Contacto
 
-📍 Colombia -  📧 valerysinaimexico@gmail.com - 📱 3203240473
+📍 Colombia (Neiva-Huila) -  📧 valerysinaimexico@gmail.com - 📱 3203240473
