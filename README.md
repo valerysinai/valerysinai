@@ -28,7 +28,6 @@ Servicio Nacional de Aprendizaje (SENA) -- Colombia
 ## 💻🖱️ Habilidades Técnicas
 
 *Lenguajes:*
-- PHP
 - Java
 - JavaScript
 
