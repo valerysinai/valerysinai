@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Valery Sinaí Trujillo Quintero
+GITHUB_USER: valerysinai
+EMAIL: valerysinaimexico@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
 # 👩‍💻 Valery Sinaí Trujillo Quintero
 
 ## 👩‍🦰 Sobre mí
