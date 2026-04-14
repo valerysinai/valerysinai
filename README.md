@@ -19,26 +19,14 @@
 
 ## 🌸 Sobre mí
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-```java
-public class Valery {
-    String nombre    = "Valery Sinaí Trujillo Quintero";
-    String ubicacion = "Neiva, Huila - Colombia 🇨🇴";
-    String formacion = "SENA · Análisis y Desarrollo de Software";
-    
-    String[] lenguajes = {"Java ☕", "JavaScript 🌐"};
-    String[] bases     = {"MySQL 🐬", "SQL Server 🗄️"};
-    String[] skills    = {"CRUD", "POO", "Diagramas MER"};
-    
-    String objetivo = "Crecer como desarrolladora 🚀";
-    String modo     = "Aprendiendo remotamente 📚";
-}
-```
-
-<br clear="right"/>
-
-Me caracterizo por ser **responsable**, **disciplinada** y con gran interés en seguir creciendo en el mundo del desarrollo de software 💖
+- 🌷 Me llamo **Valery Sinaí Trujillo Quintero**
+- 📍 Vivo en **Neiva, Huila - Colombia** 🇨🇴
+- 🏫 Estudio en el **SENA** · Análisis y Desarrollo de Software
+- ☕ Manejo **Java** y **JavaScript**
+- 🗄️ Trabajo con **MySQL** y **SQL Server**
+- 🧩 Aplico **POO**, sistemas **CRUD** y **Diagramas MER**
+- 🚀 Mi objetivo es crecer como desarrolladora de software
+- 📚 Aprendiendo de forma remota cada día ✨
 
 ---
 
@@ -47,7 +35,7 @@ Me caracterizo por ser **responsable**, **disciplinada** y con gran interés en 
 <div align="center">
 
 | 🏫 Institución | 📚 Programa | 📍 País |
-|---|---|---|
+|:---:|:---:|:---:|
 | **SENA** | Tecnóloga en Análisis y Desarrollo de Software | 🇨🇴 Colombia |
 
 </div>
@@ -70,7 +58,7 @@ Me caracterizo por ser **responsable**, **disciplinada** y con gran interés en 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### Herramientas y Conocimientos
+### Herramientas
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -81,14 +69,6 @@ Me caracterizo por ser **responsable**, **disciplinada** y con gran interés en 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valerysinai&show_icons=true&theme=radical&bg_color=fdf4ff&title_color=e879f9&icon_color=f9a8d4&text_color=7e22ce&border_color=f5d0fe&hide_border=false&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerysinai&layout=compact&theme=radical&bg_color=fdf4ff&title_color=e879f9&text_color=7e22ce&border_color=f5d0fe"/>
-
-</div>
 
 <div align="center">
 
