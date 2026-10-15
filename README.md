@@ -6,7 +6,6 @@
 <!-- Badges girly -->
 <img src="https://img.shields.io/badge/🌸%20SENA-Colombia-f9a8d4?style=for-the-badge&labelColor=fce7f3" />
 <img src="https://img.shields.io/badge/💻%20Dev-Software-e879f9?style=for-the-badge&labelColor=fdf4ff" />
-<img src="https://img.shields.io/badge/🇨🇴%20Neiva-Huila-c084fc?style=for-the-badge&labelColor=f5f3ff" />
 
 <br/><br/>
 
